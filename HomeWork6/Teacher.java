@@ -1,4 +1,4 @@
-package OOP.HomeWork4;
+package OOP.HomeWork6;
 
 class Teacher {
     private int id;
